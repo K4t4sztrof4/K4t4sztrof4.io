@@ -7,7 +7,7 @@ Our resources:
 <-- Android Studio Application basics
 TO BE COMPLETED WITH BLUETOOTH CONNECTION, AND DISPLAY OF CHARACTERS + SOUND PLAY ON THE SECOND FRAGMENT!
 
-*https://create.arduino.cc/projecthub/173799/a-glove-that-translate-sign-language-into-text-and-speech-c91b13
+* https://create.arduino.cc/projecthub/173799/a-glove-that-translate-sign-language-into-text-and-speech-c91b13
 <-- Arduino code + project core:
 COMMENTED OUT: THE CONSTRAIN COMMANDS, BC IT ALWAYS GAVE min/max, 0/1023 VALUES.
 THE CALIBRATION PROCESS IS IN PROGRESS ALREADY, THE ARDUINO APP IS SET UP TO WRITE IN THE SERIAL MONITOR THE SENSORS' OUTPUTS.
